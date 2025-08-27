@@ -195,7 +195,7 @@ $cart_count = array_sum(array_column($_SESSION['cart'], 'quantity'));
       </ul>
       <div class="d-flex align-items-center gap-3">
         <!-- Foto Profil -->
-        <img src="img/profil.jpg" alt="Profil Toko" class="rounded-circle" width="40" height="40">
+        <img src="img/bb.png" alt="Profil Toko" class="rounded-circle" width="40" height="40">
 
         <!-- Keranjang -->
         <a href="cart.php" class="btn btn-light position-relative">

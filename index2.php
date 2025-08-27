@@ -29,7 +29,7 @@ if($aksi == "edit"){
 }
 if (isset($_POST['tambah'])) {
     // $id_user = $_SESSION['id']; // ID user dari login
-    $nama_produk = $_POST['Nama_produk'];
+    $nama_produk = $_POST['nama_produk'];
     $harga = $_POST['harga_produk'];
     $stok = $_POST['stok_produk'];
     $kategori = $_POST['kategori_produk'];
